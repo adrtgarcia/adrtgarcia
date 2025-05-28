@@ -25,9 +25,9 @@
 
 
 ## Contato
-<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20"> LinkedIn: [adrtgarcia](https://www.linkedin.com/in/adrtgarcia/)
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20">: [adrtgarcia](https://www.linkedin.com/in/adrtgarcia/)
 
-<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="linkedin logo" width="20" height="20"> Email: [amandadrtgarcia@gmail.com](mailto:amandadrtgarcia@gmail.com)
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="linkedin logo" width="20" height="20">: [amandadrtgarcia@gmail.com](mailto:amandadrtgarcia@gmail.com)
 
 
 
