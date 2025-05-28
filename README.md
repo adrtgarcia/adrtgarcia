@@ -7,6 +7,11 @@
   Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>! <br><br>
 </p>
 
+<p align='center'>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrtgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <br><br>
+</p>
+
 
 ## Conhecimentos e Habilidades
 
@@ -18,10 +23,6 @@
 <!-- SQL, Git, GitHub, Markdown -->
 [![My Skills](https://skillicons.dev/icons?i=git,md,postgresql)](https://skillicons.dev)
 
-<!--
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrtgarcia&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
--->
 
 ## Contato
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20"> LinkedIn: [adrtgarcia](https://www.linkedin.com/in/adrtgarcia/)
