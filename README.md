@@ -1,6 +1,39 @@
-## Hi there 👋
+# Amanda Duarte | adrtgarcia
+
+<p align="center">
+  Oi! 👋 <br>
+  Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) <br>
+  em busca de oportunidades nas áreas de Desenvolvimento de Software e Ciência de Dados 😊 <br><br>
+  Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>! <br><br>
+</p>
+
+
+## Conhecimentos e Habilidades
+
+### 🖥️ Linguagens de Programação
+<!-- Java, C++, C, R, Python, Haskell, Prolog, MIPS Assembly -->
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,r,python,haskell)](https://skillicons.dev)
+
+### 🔧 Ferramentas e Tecnologias
+<!-- SQL, Git, GitHub, Markdown -->
+[![My Skills](https://skillicons.dev/icons?i=git,md,postgresql)](https://skillicons.dev)
 
 <!--
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrtgarcia&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+-->
+
+## Contato
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20"> LinkedIn: [adrtgarcia](https://www.linkedin.com/in/adrtgarcia/)
+
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="linkedin logo" width="20" height="20"> Email: [amandadrtgarcia@gmail.com](mailto:amandadrtgarcia@gmail.com)
+
+
+
+
+
+<!--
+## Hi there 👋
 **adrtgarcia/adrtgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
