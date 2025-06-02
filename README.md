@@ -2,8 +2,8 @@
 
 <p align="center">
   Oi! 👋 <br>
-  Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) <br>
-  em busca de oportunidades nas áreas de Desenvolvimento de Software e Ciência de Dados 😊 <br><br>
+  Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU), <br>
+  e estou em busca de oportunidades nas áreas de Desenvolvimento de Software e Ciência de Dados 😊 <br><br>
   Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>! <br><br>
 </p>
 
