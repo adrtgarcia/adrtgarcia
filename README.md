@@ -17,7 +17,7 @@
 
 ### 🖥️ Linguagens de Programação
 <!-- Java, C++, C, R, Python, Haskell, Prolog, MIPS Assembly -->
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,r,python,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,r,python)](https://skillicons.dev)
 
 ### 🔧 Ferramentas e Tecnologias
 <!-- SQL, Git, GitHub, Markdown -->
