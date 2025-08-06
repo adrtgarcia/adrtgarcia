@@ -3,7 +3,7 @@
 <p align="center">
   Oi! 👋 <br>
   Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU), <br>
-  e estou em busca de oportunidades nas áreas de Desenvolvimento de Software e Ciência de Dados 😊 <br><br>
+  e estou em busca de oportunidades na área de Desenvolvimento de Software 😊 <br><br>
   Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>! <br><br>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### 🖥️ Linguagens de Programação
 <!-- Java, C++, C, R, Python, Haskell, Prolog, MIPS Assembly -->
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,r,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,r,html,python)](https://skillicons.dev)
 
 ### 🔧 Ferramentas e Tecnologias
 <!-- SQL, Git, GitHub, Markdown -->
