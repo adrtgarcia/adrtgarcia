@@ -3,7 +3,7 @@
 <div align="center">
   <p><strong>Oi!</strong> 👋<br>
     Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU),<br> 
-    e estou em busca de oportunidades na área de Desenvolvimento de Software 😊<br>
+    e estou estagiando na área de Desenvolvimento de Software 😊<br>
     Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>!
   </p>
 </div><br>
@@ -11,7 +11,7 @@
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrtgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/
     alt="github-stats"><br><br>-->
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,r,python,md,html,css,git,postgresql" alt="skills">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,js,r,python,md,html,css,postgresql,dotnet,git" alt="skills">
 </div>
 
 <br><br><br>
