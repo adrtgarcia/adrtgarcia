@@ -9,54 +9,19 @@
 </div><br>
 
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrtgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/
-    alt="github-stats"><br><br>-->
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,js,r,python" alt="skills"><br>
-  <img src="https://skillicons.dev/icons?i=md,html,css,postgresql,dotnet,git" alt="skills">
-</div><br>
-
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,r,python" alt="skills">
+  <br>
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css,md,git,postgresql" alt="skills">
+  <!--<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrtgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"    
+       alt="github-stats">-->
+</div>
+<br><br>
 <div align="center">
   <hr>
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="20" height="20">
-  <a href="https://www.linkedin.com/in/adrtgarcia/">adrtgarcia</a>
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="gmail" width="30" height="30">
-  <a href="mailto:amandadrtgarcia@gmail.com">amandadrtgarcia@gmail.com</a>
+  <a href="mailto:amandadrtgarcia@gmail.com"><img height=30 src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
+  <a href="https://www.linkedin.com/in/adrtgarcia/"><img height=30 src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a>
 </div>
-
-
-<!--
-## Conhecimentos e Habilidades
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,r,python" alt="backend">
-  <br>
-  <img src="https://skillicons.dev/icons?i=md,html,css,git,postgresql" alt="outros">
-</div>
-
-### 🖥️ Linguagens de Programação 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,r,python" alt="backend">
-</div><br>
-
-### 🪄 Outras Linguagens
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=md,html,css" alt="frontend">
-</div><br>
-
-### 🔧 Ferramentas e Tecnologias
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,postgresql" alt="others">
-</div><br>
-
-
-## Contato
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="25">
-  <a href="https://www.linkedin.com/in/adrtgarcia/">adrtgarcia</a>
-  <span> | </span>
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="gmail" width="30" height="30">
-  <a href="mailto:amandadrtgarcia@gmail.com">amandadrtgarcia@gmail.com</a>
-</div>
--->
 
 
 
