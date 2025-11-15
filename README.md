@@ -2,16 +2,21 @@
 
 <div align="center">
   <p><strong>Oi!</strong> 👋<br>
-    Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU),<br> 
-    e estagiária na área de Desenvolvimento de Software 😊<br><br>
+    Sou Desenvolvedora Full Stack Jr e estudante de Ciência da Computação<br>
+    na Universidade Federal de Uberlândia (UFU) 😊<br><br>
     Para mais informações, visite meu <a href="https://adrtgarcia.github.io">portifólio</a>!
   </p>
 </div><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,r,python" alt="skills">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,supabase,postgresql" alt="skills">
+
+  <!--<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,dotnet,r,python" alt="skills">
   <br>
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,md,git,postgresql" alt="skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,md" alt="skills">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,supabase,postgresql" alt="skills">-->
+  
   <!--<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrtgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"    
        alt="github-stats">-->
